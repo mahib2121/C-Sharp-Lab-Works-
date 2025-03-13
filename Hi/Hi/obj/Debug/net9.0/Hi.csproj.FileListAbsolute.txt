@@ -1,0 +1,14 @@
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\bin\Debug\net9.0\Hi.exe
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\bin\Debug\net9.0\Hi.deps.json
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\bin\Debug\net9.0\Hi.runtimeconfig.json
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\bin\Debug\net9.0\Hi.dll
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\bin\Debug\net9.0\Hi.pdb
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.AssemblyInfoInputs.cache
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.AssemblyInfo.cs
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.csproj.CoreCompileInputs.cache
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.dll
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\refint\Hi.dll
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.pdb
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\Hi.genruntimeconfig.cache
+E:\Class Notes\2024 -2025 Spring\OBJECT ORIENTED PROGRAMMING 2 [V]\All Code\Hi\Hi\obj\Debug\net9.0\ref\Hi.dll
